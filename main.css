@@ -126,6 +126,8 @@ body {
   display: grid;
   grid-template-columns: auto auto auto;
 }
+.whycard {
+}
 
 .whycard__top {
   display: flex;
